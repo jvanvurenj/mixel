@@ -1,0 +1,9 @@
+export const ADD_MUSIC = "ADD_MUSIC";
+export const ADD_IMAGE = "ADD_IMAGE";
+export const PLAY_PAUSE = "PLAY_PAUSE";
+export const SET_INSTR = "SET_INSTR";
+export const SET_SCALE = "SET_SCALE";
+export const SET_SPEED = "SET_SPEED";
+export const NUM_NOTES = "NUM_NOTES";
+export const SET_POS = "SET_POS";
+export const SET_MODE = "SET_MODE";
