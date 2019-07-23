@@ -1,3 +1,6 @@
+Note: This was a group project for Cis425 as the University of Oregon. Only a portion of the work is directly mine.
+
+
 # mixel
 Web-based Picture->Music converter
 
